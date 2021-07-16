@@ -62,7 +62,7 @@
 
 ![WhatsApp Image 2021-07-16 at 00 05 22](https://user-images.githubusercontent.com/85137954/125894664-a72331e6-89ac-4204-987f-69cb46e1be88.jpeg)
 
-5.3 Valores de la tabla de medicion de voltaje utilizando superposicion
+5.3 Valores de la tabla de medicion de corriente utilizando superposicion
 
 ![WhatsApp Image 2021-07-16 at 00 05 52](https://user-images.githubusercontent.com/85137954/125894693-b9a428f1-d1b9-4220-9e69-d380c6d0299f.jpeg)
 
