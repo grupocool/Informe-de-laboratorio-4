@@ -46,13 +46,17 @@
 
 5.1 Arme el circuito que se muestra en la figura
 
+![image](https://user-images.githubusercontent.com/85137954/125893139-9c454278-f880-4498-848a-064b33ebb157.png)
 
 - Simulacion del circuito construido en Tinkercad
 
-
+![image](https://user-images.githubusercontent.com/85137954/125893179-1847c951-930c-4983-950a-1464d5f67a05.png)
 
 - Calculos realizados en la simulacion
 
+![image](https://user-images.githubusercontent.com/85137954/125893199-bbf15d6c-0ee2-4f47-9bea-afed425388fc.png)
+
+![image](https://user-images.githubusercontent.com/85137954/125893213-95b2a8e7-6fff-45d4-892f-90edb9c3dd91.png)
 
 5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
