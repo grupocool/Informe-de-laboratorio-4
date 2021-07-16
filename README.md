@@ -1,4 +1,15 @@
 # Informe de Laboratorio 4
+**Integrantes:**
+
+- Jordy Coyaguillo
+- Francisco Salazar
+- Ivan Vasquez
+
+ **NRC:** 5406
+ 
+ **Docente:** Ing. Darwin Alulema.
+ 
+ **Tema:** Teorema de Superposición
 # 1. Objetivo General
 - Comprobar experimentalmente el análisis de nodos en un circuito armado.
 
