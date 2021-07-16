@@ -91,5 +91,4 @@ River, NJ: Prentice Hall, 1998.
 - Budak, A. Circuit Theory Fundamentals and Applications. 2a.
 ed. Englewood Cliffs, NJ: Prentice Hall, 1987.
 
-- Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill,
-1994.
+- Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill, 1994.
