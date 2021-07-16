@@ -47,14 +47,6 @@
 - Calculos realizados en la simulacion
 
 
-5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
-
-
-
-5.3 Compare los valores de la tabla 3.1 y realice sus conclusiones.
-
-
-
 # 6. Video
 
 
