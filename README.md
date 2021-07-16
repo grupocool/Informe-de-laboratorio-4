@@ -80,16 +80,16 @@
 
 # 8. Referencias
 
--Harrison, C. A. Transform Methods in Circuits Analysis. Philadelphia, PA: Saunders, 1990
+- Harrison, C. A. Transform Methods in Circuits Analysis. Philadelphia, PA: Saunders, 1990
 
--Hayt, W. H., y J. E. Kemmerly. Engineering Circuit Analysis.
+- Hayt, W. H., y J. E. Kemmerly. Engineering Circuit Analysis.
 6a. ed. Nueva York: McGraw-Hill, 2001.
 
--Cogdeil, J. R. Foundations of Electric Circuits. Upper Saddle
+- Cogdeil, J. R. Foundations of Electric Circuits. Upper Saddle
 River, NJ: Prentice Hall, 1998.
 
--Budak, A. Circuit Theory Fundamentals and Applications. 2a.
+- Budak, A. Circuit Theory Fundamentals and Applications. 2a.
 ed. Englewood Cliffs, NJ: Prentice Hall, 1987.
 
--Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill,
+- Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill,
 1994.
