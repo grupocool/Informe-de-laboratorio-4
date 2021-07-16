@@ -11,11 +11,15 @@
  
  **Tema:** Teorema de Superposición
 # 1. Objetivo General
-- Comprobar experimentalmente el análisis de nodos en un circuito armado.
+-Comprobar el Teorema de Superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos.
 
 ## 1.2 Objetivos Específicos
 
+-Aprender a implementar el teorema de superposición de manera práctica y con  toma de medidas.
 
+-Determinar la utilidad del teorema sobre los datos proporcionados y la información que vamos a obtener.
+
+-Estudiar los pasos a seguir para un correcto análisis.
 
 # 2. Requisitos Previos
 
@@ -54,6 +58,12 @@
 
 
 # 7. Conclusiones
+
+-Aprendimos a implementar el teorema de superposición con la toma de medidas usando una sola fuente de alimentación.
+
+-El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para posteriormente realizar un conjunto global de datos y hallar los verdaderos valores del circuito, con el menor porcentaje de error.
+
+-Usamos uniones en lugar de las fuentes ideales para suprimirlas. Si la fuente no es la ideal, ésta se cortocircuita, pero sigue perteneciendo a nuestro circuito eléctrico.
 
 
 # 8. Referencias
