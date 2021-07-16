@@ -58,7 +58,12 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/125893213-95b2a8e7-6fff-45d4-892f-90edb9c3dd91.png)
 
-5.3 Compare los valores de la tabla 3.1 y realice sus conclusiones.
+5.2 Valores de la tabla de medicion de voltaje utilizando superposicion
+
+
+
+5.3 Valores de la tabla de medicion de voltaje utilizando superposicion
+
 
 
 
