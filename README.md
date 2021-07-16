@@ -68,7 +68,7 @@
 
 # 6. Video
 
-
+https://youtu.be/-T5RiI6NJGA
 # 7. Conclusiones
 
 -Aprendimos a implementar el teorema de superposición con la toma de medidas usando una sola fuente de alimentación.
