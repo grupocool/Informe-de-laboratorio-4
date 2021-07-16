@@ -23,6 +23,8 @@
 
 # 2. Requisitos Previos
 
+![image](https://user-images.githubusercontent.com/85137954/125892710-d855667a-92e2-4584-a249-692c1ea433f8.png)
+
 
 
 # 3. Marco Teórico
