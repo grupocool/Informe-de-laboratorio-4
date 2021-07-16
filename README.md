@@ -11,7 +11,7 @@
  
  **Tema:** Teorema de Superposición
 # 1. Objetivo General
--Comprobar el Teorema de Superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos.
+- Comprobar el Teorema de Superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos.
 
 ## 1.2 Objetivos Específicos
 
