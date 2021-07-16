@@ -11,19 +11,23 @@
  
  **Tema:** Teorema de Superposición
 # 1. Objetivo General
-- Comprobar el Teorema de Superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos.
+-Comprobar el Teorema de Superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos.
 
 ## 1.2 Objetivos Específicos
 
-- Aprender a implementar el teorema de superposición de manera práctica y con  toma de medidas.
+-Aprender a implementar el teorema de superposición de manera práctica y con  toma de medidas.
 
-- Determinar la utilidad del teorema sobre los datos proporcionados y la información que vamos a obtener.
+-Determinar la utilidad del teorema sobre los datos proporcionados y la información que vamos a obtener.
 
-- Estudiar los pasos a seguir para un correcto análisis.
+-Estudiar los pasos a seguir para un correcto análisis.
 
 # 2. Requisitos Previos
 
 ![image](https://user-images.githubusercontent.com/85137954/125892710-d855667a-92e2-4584-a249-692c1ea433f8.png)
+
+![image](https://user-images.githubusercontent.com/85137954/125892815-1c2a0f15-2588-474f-aa05-d8190e9dc630.png)
+
+![image](https://user-images.githubusercontent.com/85137954/125892906-3f25dfdf-c934-404a-8c20-7e58895e777a.png)
 
 
 
@@ -47,16 +51,24 @@
 - Calculos realizados en la simulacion
 
 
+5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
+
+
+
+5.3 Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+
+
 # 6. Video
 
 
 # 7. Conclusiones
 
-- Aprendimos a implementar el teorema de superposición con la toma de medidas usando una sola fuente de alimentación.
+-Aprendimos a implementar el teorema de superposición con la toma de medidas usando una sola fuente de alimentación.
 
-- El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para posteriormente realizar un conjunto global de datos y hallar los verdaderos valores del circuito, con el menor porcentaje de error.
+-El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para posteriormente realizar un conjunto global de datos y hallar los verdaderos valores del circuito, con el menor porcentaje de error.
 
-- Usamos uniones en lugar de las fuentes ideales para suprimirlas. Si la fuente no es la ideal, ésta se cortocircuita, pero sigue perteneciendo a nuestro circuito eléctrico.
+-Usamos uniones en lugar de las fuentes ideales para suprimirlas. Si la fuente no es la ideal, ésta se cortocircuita, pero sigue perteneciendo a nuestro circuito eléctrico.
 
 
 # 8. Referencias
