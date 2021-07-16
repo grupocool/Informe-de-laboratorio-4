@@ -80,7 +80,7 @@ https://youtu.be/-T5RiI6NJGA
 
 # 8. Referencias
 
-- Harrison, C. A. Transform Methods in Circuits Analysis. Philadelphia, PA: Saunders, 1990
+- Harrison, C. A. Transform Methods in Circuits Analysis. Philadelphia, PA: Saunders, 1990
 
 - Hayt, W. H., y J. E. Kemmerly. Engineering Circuit Analysis.
 6a. ed. Nueva York: McGraw-Hill, 2001.
